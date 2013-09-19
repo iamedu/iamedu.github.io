@@ -1,0 +1,16 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+title : Eduardo Díaz
+production_url : http://iamedu.github.com
+description: "Of code and a few things more"
+disqus_shortname: iamedu
+analytics: UA-39581307-1
+gauges: 51531b94108d7b3f8d00003e
+author : 
+  name : Eduardo Díaz
+  github : iamedu
+  twitter : iamedu
